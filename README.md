@@ -1,5 +1,5 @@
 # Corona-Tracker
-This site actually keeps track on all the confirmed,active and death cases globally as well as country wise.To know about the information about the country u just need to type the country name in the serach bar
+This site actually keeps track on all the confirmed,active and death cases globally as well as country wise.To know about the information about the country u just need to type the country name in the search bar
 
 <h1>Global Cases</h1>
 
